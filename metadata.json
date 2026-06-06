@@ -1,0 +1,6 @@
+{
+  "name": "Night Forest",
+  "description": "A 2D top-down abduction rescue game set in a mysterious, dark forest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
